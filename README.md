@@ -1,9 +1,14 @@
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
-## Aim: To  configure  the Network server and end device for traferring data on the network
-## Components required: end node stm 32 development kit , dragino LPS8, network server 
+## Aim:
+
+To  configure  the Network server and end device for traferring data on the network
+## Components required: 
+
+end node stm 32 development kit , dragino LPS8, network server 
 
 ## Theory :
+
 When working with sensitive applications or files, saving progress on your local device is a start, but what if you lose access to your device? Network servers address this problem by hosting the files and programs most pertinent to the network and enabling access for consistent, real-time use. 
 
 As a result, personnel or network clients can instantly access important data or tools while also facilitating collaboration between users. Multiple users can make changes to the same program or document for continued development over the course of a project. Via a secure login, remote users can connect to the home network.
@@ -47,6 +52,7 @@ To set APP Key
 
 
 ## OUTPUT 
+
 ![Screenshot 2024-04-23 111237](https://github.com/JAYASREE24032006/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/144360800/f9ca19e5-fe1d-496a-a70e-c09f91f13ca6)
 
 ![Screenshot 2024-04-23 111220](https://github.com/JAYASREE24032006/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/144360800/700c6d45-f126-43c3-82c5-65d12983fbfe)
